@@ -1,0 +1,7 @@
+/.vs/
+*.suo
+**/*.user
+*.orig
+*.jfm
+obj/
+bin/
